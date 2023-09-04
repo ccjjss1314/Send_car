@@ -1,0 +1,9 @@
+.\objects\event_groups.o: ..\..\..\FreeRtos\Scr\event_groups.c
+.\objects\event_groups.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\event_groups.o: ..\..\..\FreeRtos\Inc\FreeRTOS.h
+.\objects\event_groups.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\event_groups.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\event_groups.o: ..\..\..\FreeRtos\Inc\FreeRTOSConfig.h
+.\objects\event_groups.o: ..\..\..\FreeRtos\Inc\projdefs.h
+.\objects\event_groups.o: ..\..\..\FreeRtos\Inc\portable.h
+.\objects\event_groups.o: ..\..\..\FreeRtos\Inc\deprecated_definitions.h

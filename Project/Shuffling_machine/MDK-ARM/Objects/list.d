@@ -1,0 +1,9 @@
+.\objects\list.o: ..\..\..\FreeRtos\Scr\list.c
+.\objects\list.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\list.o: ..\..\..\FreeRtos\Inc\FreeRTOS.h
+.\objects\list.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\list.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\list.o: ..\..\..\FreeRtos\Inc\FreeRTOSConfig.h
+.\objects\list.o: ..\..\..\FreeRtos\Inc\projdefs.h
+.\objects\list.o: ..\..\..\FreeRtos\Inc\portable.h
+.\objects\list.o: ..\..\..\FreeRtos\Inc\deprecated_definitions.h

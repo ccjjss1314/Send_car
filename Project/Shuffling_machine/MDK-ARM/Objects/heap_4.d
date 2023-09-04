@@ -1,0 +1,10 @@
+.\objects\heap_4.o: ..\..\..\FreeRtos\port\MemMang\heap_4.c
+.\objects\heap_4.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\heap_4.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\heap_4.o: ..\..\..\FreeRtos\Inc\FreeRTOS.h
+.\objects\heap_4.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\heap_4.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\heap_4.o: ..\..\..\FreeRtos\Inc\FreeRTOSConfig.h
+.\objects\heap_4.o: ..\..\..\FreeRtos\Inc\projdefs.h
+.\objects\heap_4.o: ..\..\..\FreeRtos\Inc\portable.h
+.\objects\heap_4.o: ..\..\..\FreeRtos\Inc\deprecated_definitions.h

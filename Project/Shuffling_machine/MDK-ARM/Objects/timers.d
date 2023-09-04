@@ -1,0 +1,9 @@
+.\objects\timers.o: ..\..\..\FreeRtos\Scr\timers.c
+.\objects\timers.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\timers.o: ..\..\..\FreeRtos\Inc\FreeRTOS.h
+.\objects\timers.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\timers.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timers.o: ..\..\..\FreeRtos\Inc\FreeRTOSConfig.h
+.\objects\timers.o: ..\..\..\FreeRtos\Inc\projdefs.h
+.\objects\timers.o: ..\..\..\FreeRtos\Inc\portable.h
+.\objects\timers.o: ..\..\..\FreeRtos\Inc\deprecated_definitions.h
